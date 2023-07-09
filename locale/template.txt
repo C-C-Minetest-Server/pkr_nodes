@@ -1,0 +1,24 @@
+# textdomain: pkr_nodes
+@1 Base Node (Light)=
+@1 Base Node (Dark)=
+@1 Base Node (Half Light)=
+@1 Base Node (Full Light)=
+@1 Base Node (Glasslike)=
+White=
+Red=
+Green=
+Blue=
+Barrier=
+End Point=
+Restart Point=
+Jump Preventer=
+Half Bouncy Block=
+Full Bouncy Block=
+Lock Block=
+Unlocked Lock Block=
+YOU HACKER YOU! @1=
+Diggable Block (no drops)=
+Diggable Block (drops)=
+Mapgen Placeholder=
+Text node (@1)=
+Goto node (@1)=
